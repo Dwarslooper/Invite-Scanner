@@ -4,6 +4,10 @@ echo.
 echo.
 echo     Discord Invite scanner by Dwarslooper V 0.1
 echo.
+echo     This program's code is available on Github:
+echo     https://github.com/Dwarslooper/Invite-Scanner
+echo     My Discord Server: dsc.gg/dwars
+echo.
 echo     ======================================
 echo     REMEMBER: This program consistently
 echo     pings Discord's website to scan for
