@@ -9,4 +9,4 @@ Since the program scans by requesting Discord's website, do not set the delay to
 
 ## Usage
 
-Download the latest release from the [releases page](https://) and open the program. Set your settings for the scan and confirm. The program will now start scanning.
+Download the latest release from the [releases page](https://github.com/Dwarslooper/Invite-Scanner/releases/) and open the program. Set your settings for the scan and confirm. The program will now start scanning.
